@@ -9,7 +9,7 @@ Contenido del Tutorial de Neuroevolución del Encuentro Nacional de Computación
 * Dr. Héctor Gabriel Acosta Mesa
 * Dr. Efrén Mezura Montes
 * Mtra. Rocío Erandi Barrientos Martínez
-* Lic. José Clement Hernández Hernández
+* Lic. José Clemente Hernández Hernández
 * Ing. Juan Antonio Rodríguez de la Cruz
 * Mtro. Gustavo Adolfo Vargas Hákim
 
