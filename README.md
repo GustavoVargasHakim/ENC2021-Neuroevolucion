@@ -32,8 +32,9 @@ Miembros del grupo **Research Group on Computer Vision, Neural Networks, Evoluti
   f. Futuro del área  
 7. Aplicaciones  
   a. Análisis de sentimientos en tweets representados con Word2Vec  
-  b. Identificación de COVID-19 a partir de imágenes de rayos X de pulmón  
+  b. Identificación de COVID-19 a partir de imágenes de rayos X de pulmón [<img src = "badgecolab.svg">](https://githubtocolab.com/GustavoVargasHakim/ENC2021-Neuroevolucion/blob/main/Aplicación_2_imagenes_de_rayos_x.ipynb)  
   c. Generación de imágenes sintéticas utilizando Redes Generativas Adversarias Convolucionales (DCGANs)  
+
 
 ## **Requerimientos de cómputo**
 
