@@ -30,7 +30,7 @@ Miembros del grupo **Research Group on Computer Vision, Neural Networks, Evoluti
   d. Profundidad de las arquitecturas  
   e. Ambientes de desarrollo  
   f. Futuro del área  
-7. Aplicaciones
+7. Aplicaciones  
   a. Análisis de sentimientos en tweets representados con Word2Vec  
   b. Identificación de COVID-19 a partir de imágenes de rayos X de pulmón  
   c. Generación de imágenes sintéticas utilizando Redes Generativas Adversarias Convolucionales (DCGANs)  
