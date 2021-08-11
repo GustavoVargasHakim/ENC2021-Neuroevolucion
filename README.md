@@ -23,7 +23,7 @@ Miembros del grupo **Research Group on Computer Vision, Neural Networks, Evoluti
 4. Redes Neuronales Convolucionales  
   4.1 Implementación de Redes Neuronales Convolucionales [<img src = "badgecolab.svg">](https://githubtocolab.com/GustavoVargasHakim/ENC2021-Neuroevolucion/blob/main/cnn_neuroevolution.ipynb)  
 5. Computación Evolutiva
-6. Neuroevolución
+6. Neuroevolución  
   a. Introducción  
   b. Tipos  
   c. Representaciones  
